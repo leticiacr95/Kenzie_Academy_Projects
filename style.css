@@ -1,0 +1,68 @@
+/* S2-14 | Entrega: Estilizando Blog Kenzie */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
+
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color:paleturquoise;
+}
+
+h1{
+    color:blue;
+    text-align:center;
+    text-indent:50px;
+    font-weight:bold; 
+}
+
+p{
+    background-color: blue;
+    color:white
+
+    
+}
+
+h3{
+    
+    color:blue;
+    text-align:center;
+    text-indent: 25px;
+    font-weight:bold;
+}
+
+span{
+    padding: 2px;
+    border:red solid 2px;
+    color:blue;
+
+}
+
+
+
+form{
+    background-color:yellow;
+    color:black;
+    border: 5px solid purple;
+    margin: 3px;
+    padding:4px;
+
+}
+
+input{
+    background-color: black;
+    color:aliceblue
+}
+
+button {
+    height: 30px;
+    width: 90px;
+    margin-left: 20px;
+    border: 2px solid transparent;
+  }
+  
+  button:focus {
+    border-color: orange;
+  }
+  
+
+
